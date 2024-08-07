@@ -10,3 +10,4 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rezaan6&repo=music-player&theme=graywhite)](https://github.com/rezaan6/music-player)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rezaan6&repo=ecommerces-shopping&theme=graywhite)](https://github.com/rezaan6/ecommerces-shopping)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rezaan6&repo=gpt3-modern-ui-ux&theme=graywhite)](https://github.com/rezaan6/gpt3-modern-ui-ux)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rezaan6&repo=pos-system&theme=graywhite)](https://github.com/rezaan6/pos-system)
