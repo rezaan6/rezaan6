@@ -14,6 +14,4 @@
 
 <a href="https://github.com/rezaan6/gpt3-modern-ui-ux"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rezaan6&repo=gpt3-modern-ui-ux&border_color=d0d7de&border_radius=6&bg_color=00000000&description_lines_count=3&card_width=420" /></a>&nbsp;<a href="https://github.com/rezaan6/weather"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rezaan6&repo=weather&border_color=d0d7de&border_radius=6&bg_color=00000000&description_lines_count=3&card_width=420" /></a>
 
-<a href="https://github.com/rezaan6/portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rezaan6&repo=portfolio&border_color=d0d7de&border_radius=6&bg_color=00000000&description_lines_count=3&card_width=420" /></a>
-
 </div>
