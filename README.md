@@ -1,11 +1,14 @@
 ### Rezaan Riyaz — Senior Frontend Engineer
 
-React · Next.js · TypeScript. I build and lead frontend for products that have to stay
-maintainable — architecture, performance, and design systems. 7+ years across a UAE
-marketplace platform I own end to end, enterprise media for the Goethe-Institut and the
-Lindau Nobel Laureate Meetings, and a CMS that shipped 40+ releases behind a test gate.
+React · Next.js · TypeScript. Hands-on as the primary engineer, and leading frontend
+teams — architecture, performance, and design systems on products that have to stay
+maintainable. 7+ years across a UAE marketplace platform I own end to end, enterprise
+media for the Goethe-Institut and the Lindau Nobel Laureate Meetings, and a CMS that
+replaced a live Laravel and jQuery application screen by screen while shipping 40+
+releases behind a test gate.
 
-Open to Senior Frontend roles — onsite, remote, or with relocation.
+Open to Senior Frontend Engineer roles — as the primary senior engineer or as the lead,
+onsite, remote, or with relocation.
 
 **[rezaan6/portfolio](https://github.com/rezaan6/portfolio)** is the source of
 [rezaanriyaz.com](https://rezaanriyaz.com) — the one codebase here I can hand over in
